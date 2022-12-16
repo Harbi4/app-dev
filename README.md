@@ -1,3 +1,3 @@
 # app-dev
-### 3 My first repository
-***bold text***
+### ***My first repository***
+
